@@ -1,4 +1,4 @@
-## Alogrithm:
+## Algorithm:
 
 1 Start 
 
