@@ -4,7 +4,7 @@
 
 2 Initialize variables, get input (array elements).
 
-3 Store values in 1D/2D array.
+3 Store values in 1D and 2D array.
 
 4 Perform required task to the given arryas
 
@@ -19,7 +19,7 @@ This repository contains my practice codes in C for array-based DSA
 1D & 2D for Insertion,Deletion,Searching,Sorting and update in Arrays
 
 
-Simple 5-step algorithm 
+Using Simple algorithm 
 
 ## Technology Used:
 
